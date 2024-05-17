@@ -1,8 +1,11 @@
 .. default-role:: code
 
 ########################
- Fennel REPL for Neovim
+ Fennel REPL for Neovim (MIRROR For own use)
 ########################
+
+.. Update: Mirror that includes _protocol and is compatible with Lua packag managers
+.. such as Lazy by fixing submodule issue.
 
 This is an interactive `Fennel`_ REPL plugin for Neovim.  It allows evaluating
 arbitrary Fennel expressions in a running process.  The expression is sent to
